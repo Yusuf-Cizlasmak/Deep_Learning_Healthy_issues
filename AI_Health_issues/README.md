@@ -23,3 +23,7 @@ Bu hastalığın teşhisinde,görüntüdeki damarların daha net gözükmesi ve 
 
 
 ardından kullanılan 5 farklı sınıfın sınıflandırılması için EfficientNetB1 modeli ile eğitim gerçekleştirdim.
+
+## tf.data Pipeline ile PNEUMOIA ile NORMAL SINIF AYRIMI
+
+tf.data pipeline ile değişik data augmentaion teknikleriyle Normal-PNEUMOIA ayrımı sınıflandırdık.
